@@ -59,7 +59,7 @@ Enthusiastic about Web Architectures, Machine Learning and BlockChain Technologi
 # 📊 Some Stats!
 
 <a href="https://github.com/MananDoshi/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MananDoshi1301&include_all_commits=true&theme=onedark&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MananDoshi1301&include_all_commits=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/MananDoshi1301/github-readme-stats">
