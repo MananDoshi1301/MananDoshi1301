@@ -6,7 +6,7 @@
 <a href="https://twitter.com/Manan_Doshi1301">
   <img align="left" alt="Manan's Twitter" width="40px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
 </a>
-<a href="www.linkedin.com/in/manandoshi1301">
+<a href="https://www.linkedin.com/in/manandoshi1301">
   <img align="left" alt="Manan's LinkedIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 <a href="mailto:manandoshi1301@example.com?subject=subject&cc=cc@example.com">
