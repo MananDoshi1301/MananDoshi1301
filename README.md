@@ -1,68 +1,65 @@
-<!-- <p align="center">
-<h1> Hey, I am Manan Doshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1> 
+<p align="center">
+<h1> Hey, I am <i>Manan Doshi&nbsp;&nbsp;</i><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1> 
 </p>
 
 
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/Manan_Doshi1301">
+  <img align="left" alt="Manan's Twitter" width="40px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="www.linkedin.com/in/manandoshi1301">
+  <img align="left" alt="Manan's LinkedIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
+<a href="mailto:manandoshi1301@example.com?subject=subject&cc=cc@example.com">
+  <img align="left" alt="Manan's gmail" width="40px" src="icons8-gmail.svg" />
+</a>
+<a href="https://www.hackerrank.com/manandoshi1301?hr_r=1">
+  <img align="left" alt="Manan's Hackerrank" width="40px" src="hackerrank.svg" />
+</a>
+
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/mehtansh)
-[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1U4KSf0KsZ9aLU8Ea2SunxmLo8fchBjrR/view?usp=sharing)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:8anshmehta@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Ansh%20Mehta-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mehtansh/)
-[![Twitter](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=twitter)](https://twitter.com/mehtansh/)
-[![HackerRank](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://hackerrank.com/mehtansh)
-- 🎓 I’m currently pursuing Bachelor's of Technology in Information Technology
-- 🔭 Getting my hand dirty on projects related to Web Developments using MERN Stack
+
+<img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
+ 
+ 
+ 
+Enthusiastic about Web Architectures, Machine Learning and BlockChain Technologies.
+<br/>Currently exploring and getting hands on some projects.
+<br/>I am looking for collaborations on projects. Would be very happy to connect!
 <br/>
-  Enthusiastic about Web Architectures, Machine Learning and BlockChain Technologies.
-  <br/>Currently exploring and getting hands on some projects.
-  <br/>I am looking for collaborations on projects. Would be very happy to connect!
+- 🎓 I’m currently pursuing Bachelor's of Technology in Information Technology
+- 🔭 Getting my hands dirty on projects related to Web Developments using MERN Stack
+
+  
   
 <br/>  ![profile count](https://komarev.com/ghpvc/?username=MananDoshi1301&color=green)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/MananDoshi1301?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
+[![GitHub MananDoshi1301](https://img.shields.io/github/followers/MananDoshi1301?label=follow&style=social)](https://github.com/MananDoshi1301)&nbsp;
 <br/>
 
-## 🛠 Languages and TechStacks:
-
-#### Languages:
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-
-#### Frontend:
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Backend:
-![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-black.svg?&style=for-the-badge&logo=php)
-
-#### Database:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
-
-#### Hosting:
-![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
-
-## Some of my Github Stats!
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mehtaAnsh&show_icons=true&include_all_commits=true)](https://github.com/mehtaAnsh/github-readme-stats)
-&nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaAnsh&layout=compact)](https://github.com/mehtaAnsh/github-readme-stats)
-
 <br/>
- -->
+
+# 🛠 TechStack:
+
+
+### Web Architectures: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/html-5--v1.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/css3.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/bootstrap.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/000000/javascript.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/windows/32/26e07f/node-js.png" width="45px" /></code> &nbsp; <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="45px" /></code> &nbsp;
+
+
+### Languages: &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/></code> &nbsp; <code><img src="https://img.icons8.com/dusk/64/fa314a/php-logo.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/dusk/64/fa314a/java-coffee-cup-logo.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/dusk/64/4a90e2/python.png" width="45px" /></code> &nbsp;
+
+
+### Databases: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/firebase.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/mongodb.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/ios/50/4a90e2/mysql-logo.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/oracle-logo.png" width="45px" /></code> &nbsp;
+
+  
+### Hosting/Services: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/firebase.png" width="45px" /></code> &nbsp; <code><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/heroku.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/amazon-web-services.png" width="45px" /></code> &nbsp;
+
+
+
+
+# 📊 Some Stats!
+
+<a href="https://github.com/MananDoshi1301/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MananDoshi1301&theme=onedark&layout=compact" />
+</a>
+
+[![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MananDoshi1301&include_all_commits=true&theme=onedark&show_icons=true)](https://github.com/MananDoshi/github-readme-stats)
