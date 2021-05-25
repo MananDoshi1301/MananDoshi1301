@@ -33,10 +33,9 @@ Enthusiastic about Web Architectures, Machine Learning and BlockChain Technologi
 
   
   
-<br/>  ![profile count](https://komarev.com/ghpvc/?username=MananDoshi1301&color=green)&nbsp;
+<br/>  
+![profile count](https://komarev.com/ghpvc/?username=MananDoshi1301&color=green) &nbsp; [![GitHub MananDoshi1301](https://img.shields.io/github/followers/MananDoshi1301?label=follow&style=social)](https://github.com/MananDoshi1301) 
 
-[![GitHub MananDoshi1301](https://img.shields.io/github/followers/MananDoshi1301?label=follow&style=social)](https://github.com/MananDoshi1301) 
-&nbsp;
 <br/>
 
 <br/>
