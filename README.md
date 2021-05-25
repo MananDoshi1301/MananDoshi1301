@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/manandoshi1301">
   <img align="left" alt="Manan's LinkedIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
-<a href="mailto:manandoshi1301@example.com?subject=subject&cc=cc@example.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manandoshi1301@gmail.com">
   <img align="left" alt="Manan's gmail" width="40px" src="icons8-gmail.svg" />
 </a>
 <a href="https://www.hackerrank.com/manandoshi1301?hr_r=1">
