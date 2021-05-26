@@ -19,7 +19,7 @@
 <a href="https://drive.google.com/file/d/1FgHwTvc7gXx_yrMNVYnFi1PorNIVW0uk/view?usp=sharing">
   <img align="left" alt="Manan's Hackerrank" width="40px" src="https://img.icons8.com/fluent/48/000000/resume.png"/>
 </a>
-
+<!-- <img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/>  Resume website svg-->
 
 <br/><br/>
 
