@@ -16,8 +16,8 @@
   <img align="left" alt="Manan's Hackerrank" width="40px" src="hackerrank.svg" />
 </a>
 
-<a href="https://drive.google.com/file/d/1FgHwTvc7gXx_yrMNVYnFi1PorNIVW0uk/view?usp=sharing">
-  <img align="left" alt="Manan's Hackerrank" width="40px" src="https://img.icons8.com/fluent/48/000000/resume.png"/>
+<a href="https://docs.google.com/document/d/1WM2S2fETjt9GTAi7ly0SVNSGkmYLJhIwMjA7NifjYY8/edit?usp=sharing">
+  <img align="left" alt="Manan's Resume" width="40px" src="https://img.icons8.com/fluent/48/000000/resume.png"/>
 </a>
 <!-- <img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/>  Resume website svg-->
 
