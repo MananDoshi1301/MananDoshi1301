@@ -28,7 +28,7 @@
  
  
  
-Enthusiastic about Web Architectures, Machine Learning and BlockChain Technologies.
+Enthusiastic about Data analysis, its feature branches, Machine Learning and Statistics
 <br/>Currently exploring and getting hands on some projects.
 <br/>I am looking for collaborations on projects. Would be very happy to connect!
 <br/>
