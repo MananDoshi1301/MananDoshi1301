@@ -2,7 +2,9 @@
 <h1> Hey, I am <i>Manan Doshi&nbsp;&nbsp;</i><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1> 
 </p>
 
-
+<a href="https://manandoshi.netlify.app/">
+  <img align="left" alt="Manan's Website" width="40px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />
+</a>
 <a href="https://twitter.com/Manan_Doshi1301">
   <img align="left" alt="Manan's Twitter" width="40px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
 </a>
