@@ -5,9 +5,7 @@
 <a href="https://manandoshi.netlify.app/">
   <img align="left" alt="Manan's Website" width="40px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />
 </a>
-<a href="https://twitter.com/Manan_Doshi1301">
-  <img align="left" alt="Manan's Twitter" width="40px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
-</a>
+
 <a href="https://www.linkedin.com/in/manandoshi1301">
   <img align="left" alt="Manan's LinkedIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
@@ -18,7 +16,7 @@
   <img align="left" alt="Manan's Hackerrank" width="40px" src="hackerrank.svg" />
 </a>
 
-<a href="https://docs.google.com/document/d/1XymwM-397kJq5lGVTervtToZ4bCX56qo/edit?usp=sharing&ouid=112573404717784852559&rtpof=true&sd=true">
+<a href="https://docs.google.com/document/d/1t09U5iqqe8pv14v69bkvHaoWzTPj3jRT/edit?usp=sharing&ouid=112573404717784852559&rtpof=true&sd=true">
   <img align="left" alt="Manan's Resume" width="40px" src="https://img.icons8.com/fluent/48/000000/resume.png"/>
 </a>
 <!-- <img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/>  Resume website svg-->
@@ -29,13 +27,15 @@
 <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
  
  
- 
-Enthusiastic about Data analysis, its feature branches, Machine Learning and Statistics
-<br/>Currently exploring and getting hands on some projects.
-<br/>I am looking for collaborations on projects. Would be very happy to connect!
+
+I get up every day with the thought of reducing my processing time!
+<br/>Enthusiastic about developing scalable systems that serve real purposes.
+<br/>Passionate about Parallelism and Computer Vision.
+<br/>Always looking for opportunities and great projects to work on.
+<br/>Would be very happy to connect!
 <br/>
-- 🎓 I’m currently pursuing Bachelor's of Technology in Information Technology
-- 🔭 Getting my hands dirty on projects related to Web Developments using MERN Stack
+- 🎓 I’m currently pursuing Master's of Science in Computer Science from CU Boulder
+- 🔭 Getting my hands dirty on projects
 
   
   
@@ -54,10 +54,10 @@ Enthusiastic about Data analysis, its feature branches, Machine Learning and Sta
 ### Web Architectures: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/html-5--v1.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/css3.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/bootstrap.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/000000/javascript.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/windows/32/26e07f/node-js.png" width="45px" /></code> &nbsp; <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="45px" /></code> &nbsp;
 
 
-### Languages: &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/></code> &nbsp; <code><img src="https://img.icons8.com/dusk/64/fa314a/php-logo.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/dusk/64/fa314a/java-coffee-cup-logo.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/dusk/64/4a90e2/python.png" width="45px" /></code> &nbsp;
+### Languages: &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/></code> &nbsp; <code><img src="https://img.icons8.com/dusk/64/4a90e2/python.png" width="45px" /></code> &nbsp;
 
 
-### Databases: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/firebase.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/mongodb.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/ios/50/4a90e2/mysql-logo.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/oracle-logo.png" width="45px" /></code> &nbsp;
+### Databases: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/firebase.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/mongodb.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/ios/50/4a90e2/mysql-logo.png" width="45px" /></code> &nbsp; 
 
   
 ### Hosting/Services: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/firebase.png" width="45px" /></code> &nbsp; <code><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/heroku.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/amazon-web-services.png" width="45px" /></code> &nbsp;
