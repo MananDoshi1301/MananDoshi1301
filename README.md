@@ -51,18 +51,16 @@ I get up every day with the thought of reducing my processing time!
 # 🛠 TechStack:
 
 
-### Web Architectures: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/html-5--v1.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/css3.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/bootstrap.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/000000/javascript.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/windows/32/26e07f/node-js.png" width="45px" /></code> &nbsp; <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="45px" /></code> &nbsp;
+### Web Architectures: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/html-5--v1.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/css3.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/bootstrap.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/windows/32/26e07f/node-js.png" width="45px" /></code> &nbsp; <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="45px" /></code> &nbsp;
 
 
-### Languages: &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/></code> &nbsp; <code><img src="https://img.icons8.com/dusk/64/4a90e2/python.png" width="45px" /></code> &nbsp;
+### Languages: &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/></code> &nbsp; <code><img src="https://img.icons8.com/dusk/64/4a90e2/python.png" width="45px" /></code> &nbsp; &nbsp; <code><img src="https://img.icons8.com/color/48/000000/javascript.png" width="45px" /></code>
 
 
 ### Databases: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/firebase.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/mongodb.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/ios/50/4a90e2/mysql-logo.png" width="45px" /></code> &nbsp; 
 
   
-### Hosting/Services: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/firebase.png" width="45px" /></code> &nbsp; <code><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/heroku.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/amazon-web-services.png" width="45px" /></code> &nbsp;
-
-
+### Cloud / Hosting: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/firebase.png" width="45px" /></code> &nbsp; <code><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/heroku.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/amazon-web-services.png" width="45px" /></code> &nbsp;
 
 
 # 📊 Some Stats!
