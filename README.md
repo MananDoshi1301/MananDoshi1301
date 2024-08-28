@@ -9,16 +9,24 @@
 <a href="https://www.linkedin.com/in/manandoshi1301">
   <img align="left" alt="Manan's LinkedIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manandoshi1301@gmail.com">
-  <img align="left" alt="Manan's gmail" width="40px" src="icons8-gmail.svg" />
+
+<a href="https://leetcode.com/u/MananDoshi/">
+  <img align="left" alt="Manan's Leetcode" width="40px" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000"/>
 </a>
+
 <a href="https://www.hackerrank.com/manandoshi1301?hr_r=1">
   <img align="left" alt="Manan's Hackerrank" width="40px" src="hackerrank.svg" />
 </a>
 
-<a href="https://docs.google.com/document/d/1t09U5iqqe8pv14v69bkvHaoWzTPj3jRT/edit?usp=sharing&ouid=112573404717784852559&rtpof=true&sd=true">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manandoshi1301@gmail.com">
+  <img align="left" alt="Manan's gmail" width="40px" src="icons8-gmail.svg" />
+</a>
+
+<a href="https://docs.google.com/document/d/1MmvCE2xyJtgNguMNsRBikuwE76r1Ur6L/edit?usp=sharing&ouid=112573404717784852559&rtpof=true&sd=true">
   <img align="left" alt="Manan's Resume" width="40px" src="https://img.icons8.com/fluent/48/000000/resume.png"/>
 </a>
+
+
 <!-- <img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/>  Resume website svg-->
 
 <br/><br/>
@@ -28,14 +36,14 @@
  
  
 
-I get up every day with the thought of reducing my processing time!
+I get up every day thinking about how to optimize more!
 <br/>Enthusiastic about developing scalable systems that serve real purposes.
-<br/>Passionate about Parallelism and Computer Vision.
+<br/>Passionate about Parallelism, Distributed Systems, HPC inside Software Engineering.
 <br/>Always looking for opportunities and great projects to work on.
 <br/>Would be very happy to connect!
 <br/>
-- 🎓 I’m currently pursuing Master's of Science in Computer Science from CU Boulder
-- 🔭 Getting my hands dirty on projects
+- 🎓 I’m currently pursuing a Master of Science in Computer Science from CU Boulder
+- 🔭 Getting my hands dirty on projects and research
 
   
   
